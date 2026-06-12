@@ -1,3 +1,5 @@
 I am here for guide you about student management system
 Welcome all of you
 First of all we want to know about GitHub
+WE can collaborate each others using GitHub.So three person can work together
+using github collaroratively
